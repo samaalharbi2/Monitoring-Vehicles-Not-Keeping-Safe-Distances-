@@ -20,8 +20,8 @@ This project utilizes the YOLOv8 model for vehicle detection and classification,
 
 The dataset used for this project was sourced from various online platforms, including Kaggle. You can access the dataset via the following link: [Kaggle Dataset](https://www.kaggle.com/datasets/pranayobla/lane-monitoring/suggestions?status=pending&yourSuggestions=true).
 
-## References
+## References 📚
 
-- [Object Distance and Direction Detection for Blind and Low Vision People](https://medium.com/@batuhansenerr/object-distance-direction-detection-for-blind-and-low-vision-people-c3f3fd83cbef)
-- [Ultralytics Documentation: Distance Calculation](https://docs.ultralytics.com/guides/distance-calculation/)
+- [Object Distance and Direction Detection for Blind and Low Vision People](https://medium.com/@batuhansenerr/object-distance-direction-detection-for-blind-and-low-vision-people-c3f3fd83cbef) 🚗
+- [Ultralytics Documentation: Distance Calculation](https://docs.ultralytics.com/guides/distance-calculation/) 🔍
 
