@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In an effort to enhance road safety and reduce traffic violations, this project implements a vehicle monitoring system that detects unsafe driving behaviors. By utilizing advanced technologies, we aim to identify vehicles that do not maintain safe following distances and provide alerts to drivers.
+this project implements a vehicle monitoring system that detects unsafe driving behaviors. By utilizing advanced technologies, we aim to identify vehicles that do not maintain safe following distances and provide alerts to drivers.
 
 ## Objectives
 
