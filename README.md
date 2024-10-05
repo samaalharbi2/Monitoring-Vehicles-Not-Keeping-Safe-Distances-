@@ -1,10 +1,10 @@
 ## Monitoring Vehicles Not Keeping Safe Distances 🚙🚨
 
-## Introduction
+## 📄 Introduction
 
 this project implements a vehicle monitoring system that detects unsafe driving behaviors. By utilizing advanced technologies, we aim to identify vehicles that do not maintain safe following distances and provide alerts to drivers.
 
-## Objectives
+## 💡 Objectives
 
 - **Vehicle Detection**: Identify vehicles in real-time using advanced detection algorithms.
 - **Vehicle Classification**: Classify vehicles based on their positions within or outside lane boundaries.
@@ -12,11 +12,11 @@ this project implements a vehicle monitoring system that detects unsafe driving 
 - **License Plate Recognition**: Accurately recognize and record license plates of detected vehicles.
 - **Driver Alert System**: Notify drivers if their vehicle approaches an unsafe distance from the vehicle in front.
 
-## Algorithm
+## 🤖 Algorithm
 
 This project utilizes the YOLOv8 model for vehicle detection and classification, combined with Optical Character Recognition (OCR) for license plate identification. This powerful combination allows for effective monitoring and analysis of traffic behavior.
 
-## Data
+## 📊 Data
 
 The dataset used for this project was sourced from various online platforms, including Kaggle. You can access the dataset via the following link: [Kaggle Dataset](https://www.kaggle.com/datasets/pranayobla/lane-monitoring/suggestions?status=pending&yourSuggestions=true).
 
