@@ -20,6 +20,16 @@ This project utilizes the YOLOv8 model for vehicle detection and classification,
 
 The dataset used for this project was sourced from various online platforms, including Kaggle. You can access the dataset via the following link: [Kaggle Dataset](https://www.kaggle.com/datasets/pranayobla/lane-monitoring/suggestions?status=pending&yourSuggestions=true).
 
+
+## 🌟 How can you run the Demo?
+
+To try the system, follow these steps:
+
+1. **Clone our repository**
+2. **Download the requirments.txt**
+3. **Open the terminal**
+4. **Run the streamlit app.py**
+
 ## References 📚
 
 - [Object Distance and Direction Detection for Blind and Low Vision People](https://medium.com/@batuhansenerr/object-distance-direction-detection-for-blind-and-low-vision-people-c3f3fd83cbef) 🚗
