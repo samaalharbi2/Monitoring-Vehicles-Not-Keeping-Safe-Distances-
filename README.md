@@ -26,7 +26,7 @@ The dataset used for this project was sourced from various online platforms, inc
 - [Ultralytics Documentation: Distance Calculation](https://docs.ultralytics.com/guides/distance-calculation/) 🔍
 
 
-- ## Contact Information 📞
+## Contact Information 📞
 
 If you want to inquire or encounter a problem, you can contact us on these emails:
 
