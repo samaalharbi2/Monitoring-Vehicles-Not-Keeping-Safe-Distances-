@@ -25,7 +25,7 @@ The dataset used for this project was sourced from various online platforms, inc
 - [Object Distance and Direction Detection for Blind and Low Vision People](https://medium.com/@batuhansenerr/object-distance-direction-detection-for-blind-and-low-vision-people-c3f3fd83cbef) 🚗
 - [Ultralytics Documentation: Distance Calculation](https://docs.ultralytics.com/guides/distance-calculation/) 🔍
 
-  ## Team Members 👥
+## Team Members 👥
 
 - [sama](https://github.com/yourusername)
 - [Raghad](https://github.com/contributorusername)
