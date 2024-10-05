@@ -12,7 +12,7 @@ In an effort to enhance road safety and reduce traffic violations, this project 
 - **License Plate Recognition**: Accurately recognize and record license plates of detected vehicles.
 - **Driver Alert System**: Notify drivers if their vehicle approaches an unsafe distance from the vehicle in front.
 
-## Algorithm Used
+## Algorithm
 
 This project utilizes the YOLOv8 model for vehicle detection and classification, combined with Optical Character Recognition (OCR) for license plate identification. This powerful combination allows for effective monitoring and analysis of traffic behavior.
 
