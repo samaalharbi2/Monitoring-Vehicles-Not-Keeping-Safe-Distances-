@@ -1,7 +1,5 @@
 # Monitoring Vehicles Not Keeping Safe Distances
 
-![Project Image]([https://path/to/your/image.png](https://github.com/samaalharbi2/streamlit/blob/main/Screen%20Shot%201446-04-02%20at%204.05.24%20PM.png))
-
 ## Introduction
 
 In an effort to enhance road safety and reduce traffic violations, this project implements a vehicle monitoring system that detects unsafe driving behaviors. By utilizing advanced technologies, we aim to identify vehicles that do not maintain safe following distances and provide alerts to drivers.
