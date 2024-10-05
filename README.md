@@ -30,13 +30,13 @@ To try the system, follow these steps:
 3. **Open the terminal**
 4. **Run the streamlit app.py**
 
-## References 📚
+## 📚 References 
 
 - [Object Distance and Direction Detection for Blind and Low Vision People](https://medium.com/@batuhansenerr/object-distance-direction-detection-for-blind-and-low-vision-people-c3f3fd83cbef) 🚗
 - [Ultralytics Documentation: Distance Calculation](https://docs.ultralytics.com/guides/distance-calculation/) 🔍
 
 
-## Contact Information 📞
+## 📧 Contact Information
 
 If you want to inquire or encounter a problem, you can contact us on these emails:
 
