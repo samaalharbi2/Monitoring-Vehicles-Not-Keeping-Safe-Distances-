@@ -1,4 +1,4 @@
-## Monitoring Vehicles Not Keeping Safe Distances (تمهل)🚗📏
+## Monitoring Vehicles Not Keeping Safe Distances 🚗📏
 
 ## 📄 Introduction
 
