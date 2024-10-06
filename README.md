@@ -42,7 +42,7 @@ If you want to inquire or encounter a problem, you can contact us on these email
 
 - **Sama**: samawaleed929@gmail.com
 - **Raghad**: ralmqhim@gmail.com
-- **rahab**: rehabm1996@gmail.com
+- **Rahab**: rehabm1996@gmail.com
 
 
 
