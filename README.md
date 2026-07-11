@@ -40,7 +40,7 @@ To try the system, follow these steps:
 
 If you want to inquire or encounter a problem, you can contact us on these emails:
 
-- **Sama**: samawaleed929@gmail.com
+- **Sama**: saamaaalharbi@gmail.com
 - **Raghad**: ralmqhim@gmail.com
 - **Rahab**: rehabm1996@gmail.com
 
